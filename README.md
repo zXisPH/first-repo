@@ -1,3 +1,3 @@
-# first-rep
+# first-repo
 
 ## updating
